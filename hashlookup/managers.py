@@ -1,4 +1,4 @@
-from queries import HashFilterQuerySet
+from querysets import HashFilterQuerySet
 from django.db import models
 
 
